@@ -30,5 +30,5 @@ function borrar(){
     document.getElementById("impuesto").innerHTML = "";
     document.getElementById("total").innerHTML ="";
     document.getElementById("impuesto4").innerHTML = "";
-    document.getElementById("producto").innerHTML = "";
+    
 }
